@@ -1,4 +1,4 @@
-package com.fastdfs.demo;
+package com.hx.fastdfs;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

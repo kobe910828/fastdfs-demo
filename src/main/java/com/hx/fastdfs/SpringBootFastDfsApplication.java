@@ -1,4 +1,4 @@
-package com.fastdfs.demo;
+package com.hx.fastdfs;
 
 import com.github.tobato.fastdfs.FdfsClientConfig;
 import org.springframework.boot.SpringApplication;

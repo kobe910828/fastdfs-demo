@@ -1,6 +1,6 @@
-package com.fastdfs.demo.component;
+package com.hx.fastdfs.component;
 
-import com.fastdfs.demo.config.AppConfig;
+import com.hx.fastdfs.config.AppConfig;
 import com.github.tobato.fastdfs.domain.StorePath;
 import com.github.tobato.fastdfs.exception.FdfsUnsupportStorePathException;
 import com.github.tobato.fastdfs.service.FastFileStorageClient;

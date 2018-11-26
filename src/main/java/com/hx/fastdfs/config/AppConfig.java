@@ -1,4 +1,4 @@
-package com.fastdfs.demo.config;
+package com.hx.fastdfs.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

@@ -1,4 +1,4 @@
-package com.fastdfs.demo.vo;
+package com.hx.fastdfs.vo;
 
 /**
  * 返回对象Vo

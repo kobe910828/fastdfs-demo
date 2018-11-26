@@ -1,8 +1,8 @@
-package com.fastdfs.demo.controller;
+package com.hx.fastdfs.controller;
 
-import com.fastdfs.demo.component.FastDfsClientWrapper;
-import com.fastdfs.demo.vo.FileUploadResultVo;
-import com.fastdfs.demo.vo.ObjectRestResponse;
+import com.hx.fastdfs.component.FastDfsClientWrapper;
+import com.hx.fastdfs.vo.FileUploadResultVo;
+import com.hx.fastdfs.vo.ObjectRestResponse;
 import com.github.tobato.fastdfs.domain.StorePath;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

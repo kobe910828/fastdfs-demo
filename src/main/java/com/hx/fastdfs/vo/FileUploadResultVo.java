@@ -1,4 +1,4 @@
-package com.fastdfs.demo.vo;
+package com.hx.fastdfs.vo;
 
 import lombok.Data;
 import lombok.ToString;
